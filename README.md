@@ -343,8 +343,8 @@ Passionate about Cloud Infrastructure, Azure Administration, Microsoft 365, Secu
 
 ### Connect
 
-- LinkedIn: *(Add your LinkedIn profile URL)*
-- GitHub: *(Add your GitHub profile URL)*
+- LinkedIn: https://www.linkedin.com/in/loyiso-qonda-nguza-55317b69/
+- GitHub: https://github.com/Qonda-tech
 
 ---
 
